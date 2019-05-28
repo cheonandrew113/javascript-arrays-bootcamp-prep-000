@@ -30,4 +30,7 @@ function removeelementFromBeginningOfArray{
   chocolateBar(-2)
 }
 
+function destructivelyRemoveelemtFromEndOfArray{
+  
+}
 
