@@ -27,7 +27,7 @@ function destructivelyRemoveElementFromBegiinningofArray{
 }
 
 function removeelementFromBeginningOfArray{
-  
+  chocolateBar(-2)
 }
 
 
