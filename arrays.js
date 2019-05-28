@@ -4,8 +4,8 @@ function addElementToBeginningOfArray(, ){
   
 }
 
-function destructivelyAddElementToBeginningOfArray(, ){
-  
+function destructivelyAddElementToBeginningOfArray{
+  chocolateBars.shift()
 }
 
 function addElementToEndOfArray{
